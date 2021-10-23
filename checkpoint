@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hoang/Desktop/speech/model.tflearn"
+all_model_checkpoint_paths: "/home/hoang/Desktop/speech/model.tflearn"
