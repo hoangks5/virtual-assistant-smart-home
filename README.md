@@ -1,3 +1,4 @@
 This is my graduation thesis .<br>
-Day1:
-Speech to Text
+Day1:<br>
+Speech to Text Vietnamese<br>
+
