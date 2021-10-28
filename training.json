@@ -124,20 +124,6 @@
         "Ai m\u00e0 bi\u1ebft"
       ],
       "context_set": ""
-    },
-    {
-      "tag": "tu\u1ed5i",
-      "patterns": [
-        "M\u00e0y bao nhi\u00eau tu\u1ed5i",
-        "B\u1ea1n m\u1ea5y tu\u1ed5i r\u1ed3i",
-        "C\u1eadu bao nhi\u00eau tu\u1ed5i"
-      ],
-      "responses": [
-        "18 xu\u00e2n xanh",
-        "18 n\u1ed3i b\u00e1nh ch\u01b0ng r\u1ed3i",
-        "Xu\u1ea5t x\u1ee9 2002"
-      ],
-      "context_set": ""
     }
   ]
 }
